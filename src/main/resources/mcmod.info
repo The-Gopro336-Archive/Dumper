@@ -1,0 +1,16 @@
+[
+  {
+    "modid": "dumper",
+    "name": "Dumper",
+    "description": "",
+    "version": "",
+    "mcversion": "",
+    "url": "",
+    "updateUrl": "",
+    "authorList": ["yoink"],
+    "credits": "",
+    "logoFile": "",
+    "screenshots": [],
+    "dependencies": []
+  }
+]
